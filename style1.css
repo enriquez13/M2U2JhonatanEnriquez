@@ -1,0 +1,97 @@
+body{
+    background: linear-gradient(to left, #192E40 , #7AACBF );
+    text-align: center;
+    font-family: sans-serif; 
+}
+h1{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+input{
+    border-radius: 5px;
+    height: 20px;
+    background-color: #7AACBF;
+    text-align: center;
+}
+::placeholder{
+    color: #333333;
+}
+#iput-input-nombre{
+    width: 130px;
+}
+#input-cantidadmaterias{
+    width: 80px;
+}
+.input-valormaterias{
+    margin: 3px;
+    width: 115px;
+}
+label{
+    font-size: 20px;
+}
+
+
+button{
+    cursor: pointer;
+    color: #C4EAF2;
+    border-radius: 7px;
+    border: solid 1px #192E40;
+    background: #1f384e;
+}
+button:hover{
+    background: #192E40;
+}
+#boton{
+    margin-bottom: 20px;
+    height: 40px;
+    width: 150px;
+    font-size: 17px;
+}
+#boton2{
+    height: 30px;
+    width: 110px;
+    margin-left: 5px;
+}
+
+#divfactura{
+    color: #C4EAF2; 
+    background: #192E40;
+    margin-left: 34%;
+    margin-right: 34%;
+    font-size: 25px;
+    line-height: 70px
+}
+#div0{
+    font-size: 16px; 
+    font-weight: 400; 
+    color: #C4EAF2; 
+    background: #192E40;
+    margin-left: 34%;
+    margin-right: 34%;
+    line-height: 30px
+}
+#div1,#div2,#div3,#div4,#div5{
+font-size: 15px; 
+font-weight: 400; 
+color: #C4EAF2; 
+background: #192E40;
+margin-left: 34%;
+margin-right: 34%;
+line-height: 25px
+}
+#div6{
+    font-size: 18px; 
+    font-weight: 400; 
+    color: #be8888; 
+    background: #192E40;
+    margin-left: 34%;
+    margin-right: 34%;
+    line-height: 50px;
+    color: rgb(230, 116, 116);
+}
+.hola{
+    margin: 0 300px 20px 300px;
+    border: solid 2px #271c36;
+    border-radius: 10px;
+}

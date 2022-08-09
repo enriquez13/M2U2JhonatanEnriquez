@@ -6,7 +6,6 @@ function mostrarInputs() {
         var D=parseInt(document.getElementById("numero4").value);
         //console.log(A)
         
-        
     if(A==B||A==C||A==D||B==C||B==D||C==D  || A=='' || B=='' || C=='' || D==''){
         alert('Error, debe ingresar números que no se repitan y que no sean vacios');
         }
